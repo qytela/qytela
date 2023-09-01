@@ -18,6 +18,6 @@ I don't care about my Github stars or profile.
 - 😄 Pronouns: He/Him. </br>
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=qytela&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api?username=qytela&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" /> </br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qytela&layout=compact" height=180 />
 </p>

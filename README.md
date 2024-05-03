@@ -7,6 +7,7 @@
     <img src="https://img.shields.io/badge/Server-Apache-green?&logo=apache" />
 </p>
 
+### Stats:
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=qytela&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" /> </br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qytela&layout=compact" height=180 />
